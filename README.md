@@ -1,2 +1,3 @@
 # Image-Classifier-Application
-An image classifier application trained on flower images that runs on the command line. 
+
+An image classifier application trained on images of flowers and runs from the command line. 
