@@ -1,7 +1,7 @@
 # Image-Classifier-Application
 
 ## Project Description:
-An image classifier application trained on images of flowers and runs from the command line. Over 102 types of flowers are found within the flowers dataset. A neural network will be trained using a pretrained model and a custom classifier to name each flower. The application allows for at least two different possible pretrained models to be used. 
+Using PyTorch, an image classifier application trained on images of flowers and runs from the command line. Over 102 types of flowers are found within the flowers dataset. A neural network will be trained using a pretrained model and a custom classifier to name each flower. The application allows for at least two different possible pretrained models to be used. 
 
 <p align="center">
   <img src="./assets/Flowers.png">
